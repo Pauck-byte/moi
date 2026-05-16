@@ -24,4 +24,4 @@ git config --global user.email "shwatch67@gmail.com"
 
 en la parte lateral izquierda , clicck en source control debajo de la lupa 
 
-escribir un mensaje obligatorio y darle al boton comit
+escribir un mensaje obligatorio y darle al boton comit cuando hay cambios
