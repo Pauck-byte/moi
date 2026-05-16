@@ -21,3 +21,7 @@ Invocar la terminal para las credenciales, parte superior terminal -> new termin
 git config --global user.name "Pauck-byte"
 
 git config --global user.email "shwatch67@gmail.com"
+
+en la parte lateral izquierda , clicck en source control debajo de la lupa 
+
+escribir un mensaje obligatorio y darle al boton comit
