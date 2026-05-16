@@ -25,3 +25,7 @@ git config --global user.email "shwatch67@gmail.com"
 en la parte lateral izquierda , clicck en source control debajo de la lupa 
 
 escribir un mensaje obligatorio y darle al boton comit cuando hay cambios
+
+nos saldra una ventana  y tenemos que decirle yes o si
+
+si nos pregunta si subirlo al origen maain, decirle que yes o si. 
